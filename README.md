@@ -2,7 +2,7 @@
 
 Welcome to my page! 
 
-I'm Zhicheng Wang, full stack developer, currently living in San Diego.
+I'm Zhicheng Wang, a full stack developer, currently living in San Diego.
 
 ## Things I code with
 
