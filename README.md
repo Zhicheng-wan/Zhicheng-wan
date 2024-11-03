@@ -4,6 +4,12 @@ Welcome to my page!
 
 I'm Zhicheng Wang, a full stack developer, currently living in San Diego.
 
+## Apps I developed
+- [GBCS Group](https://www.gbcsgroup.com/)
+- [SkyIt](https://skyit.services/)
+- [TripleC](https://www.ucsdtriplec.org/)
+- 
+
 ## Things I code with
 
 ### Language I speak
